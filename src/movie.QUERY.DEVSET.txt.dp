@@ -1,0 +1,1404 @@
+1	讲述	VV	-1	ROOT
+2	信仰	NN	0	OBJ
+
+1	适合	VV	-1	ROOT
+2	爸爸	NN	0	OBJ
+3	看	VV	0	VMOD
+
+1	有	VE	-1	ROOT
+2	熊	NN	0	OBJ
+
+1	为	P	2	VMOD
+2	梦想	NN	0	PMOD
+3	奋斗	VV	-1	ROOT
+
+1	场面	NN	1	SUB
+2	宏大	VA	-1	ROOT
+
+1	适合	VV	-1	ROOT
+2	学生	NN	0	OBJ
+3	看	VV	0	VMOD
+
+1	有	VE	-1	ROOT
+2	肌肉	NN	2	NMOD
+3	男	NN	0	OBJ
+
+1	非常	AD	1	VMOD
+2	喜剧	VV	-1	ROOT
+
+1	有	VE	-1	ROOT
+2	血腥	NN	2	NMOD
+3	场面	NN	0	OBJ
+
+1	关于	P	-1	ROOT
+2	天才	NN	0	PMOD
+
+1	制作	VV	-1	ROOT
+2	精美	VA	0	VMOD
+
+1	温情	NN	-1	ROOT
+
+1	好	JJ	1	NMOD
+2	经典	NN	-1	ROOT
+
+1	泪点	NN	1	SUB
+2	满满	VA	-1	ROOT
+
+1	女	JJ	1	NMOD
+2	主角	NN	3	SUB
+3	真	AD	3	VMOD
+4	漂亮	VA	-1	ROOT
+
+1	特效	AD	1	VMOD
+2	好	VA	-1	ROOT
+
+1	适合	VV	-1	ROOT
+2	女生	NN	0	OBJ
+3	看	VV	0	VMOD
+
+1	关于	P	-1	ROOT
+2	公平	NN	0	PMOD
+
+1	有	VE	-1	ROOT
+2	大	JJ	2	NMOD
+3	反派	NN	0	OBJ
+
+1	特效	NN	2	SUB
+2	很	AD	2	VMOD
+3	好	VA	-1	ROOT
+
+1	晦涩	NN	2	SUB
+2	难	AD	2	VMOD
+3	懂	VV	-1	ROOT
+
+1	励志型	NN	-1	ROOT
+
+1	好看	VV	-1	ROOT
+2	武侠	NN	0	OBJ
+
+1	有	VE	-1	ROOT
+2	好听	NN	2	NMOD
+3	音乐	NN	0	OBJ
+
+1	故事	NN	1	SUB
+2	特别	AD	-1	ROOT
+
+1	结局	NN	1	NMOD
+2	悲壮	NN	-1	ROOT
+
+1	反映	VV	-1	ROOT
+2	残酷	JJ	2	NMOD
+3	现实	NN	0	OBJ
+
+1	有	VE	-1	ROOT
+2	暗恋	NN	0	OBJ
+
+1	纪念	VV	-1	ROOT
+2	保罗	NN	0	OBJ
+
+1	全	DT	1	NMOD
+2	明星	NN	2	NMOD
+3	阵容	NN	-1	ROOT
+
+1	关于	P	-1	ROOT
+2	灵魂	NN	0	PMOD
+
+1	特催泪	NN	-1	ROOT
+
+1	结局	NN	2	NMOD
+2	大	JJ	2	NMOD
+3	团圆	NN	-1	ROOT
+
+1	有	VE	-1	ROOT
+2	恶	NN	2	SUB
+3	搞	VV	0	VMOD
+4	别人	NN	4	NMOD
+5	情节	NN	2	OBJ
+
+1	适合	VV	3	SUB
+2	初	JJ	2	NMOD
+3	中生	NN	0	OBJ
+4	看	VV	-1	ROOT
+
+1	关于	P	-1	ROOT
+2	人类	NN	2	DEP
+3	未来	NT	0	PMOD
+
+1	道德	NN	1	NMOD
+2	伦理	NN	-1	ROOT
+
+1	爱情	NN	1	SUB
+2	相关	VV	-1	ROOT
+
+1	1997年	NT	1	VMOD
+2	拍	VV	-1	ROOT
+
+1	姐弟恋	VV	-1	ROOT
+
+1	类似	VV	-1	ROOT
+2	行尸	NN	2	NMOD
+3	走肉	NN	0	OBJ
+
+1	死而复生	NN	-1	ROOT
+
+1	剧情	NN	1	SUB
+2	悬疑	VV	-1	ROOT
+
+1	人	NN	2	NMOD
+2	和	CC	2	NMOD
+3	动物	NN	-1	ROOT
+
+1	让	VV	-1	ROOT
+2	人	NN	0	OBJ
+3	回味	VV	3	VC
+4	无穷	VA	0	VMOD
+
+1	适合	VV	-1	ROOT
+2	一	CD	2	AMOD
+3	个	M	3	NMOD
+4	人	NN	0	OBJ
+5	看	VV	0	VMOD
+
+1	音乐	NN	1	NMOD
+2	好听	NN	-1	ROOT
+
+1	小	JJ	1	NMOD
+2	成本	NN	-1	ROOT
+
+1	文革	NN	1	NMOD
+2	时期	NN	-1	ROOT
+
+1	与	P	2	VMOD
+2	命运	NN	0	PMOD
+3	抗争	VV	-1	ROOT
+
+1	女	JJ	1	NMOD
+2	司机	NN	-1	ROOT
+
+1	剧情	NN	1	SUB
+2	紧凑	VV	-1	ROOT
+
+1	剧情	NN	1	SUB
+2	有	VE	-1	ROOT
+3	张力	NN	1	OBJ
+
+1	刘亦菲	NR	1	NMOD
+2	主演	NN	-1	ROOT
+
+1	漫画	NN	1	SUB
+2	改编	VV	-1	ROOT
+
+1	纯	JJ	1	NMOD
+2	感人	NN	-1	ROOT
+
+1	爱	VV	2	SUB
+2	恨	NN	0	OBJ
+3	交织	VV	-1	ROOT
+
+1	武打	NN	-1	ROOT
+
+1	不	AD	1	VMOD
+2	应该	VV	-1	ROOT
+3	错过	VV	1	VC
+
+1	讲富人	NN	-1	ROOT
+
+1	成本	NN	2	SUB
+2	很	AD	2	VMOD
+3	低	VA	-1	ROOT
+
+1	画面	NN	1	SUB
+2	唯美	VA	-1	ROOT
+
+1	关于	P	2	VMOD
+2	人格	NN	0	PMOD
+3	分裂	VV	-1	ROOT
+
+1	轻松	VA	-1	ROOT
+2	一点	CD	0	VMOD
+
+1	体现	VV	-1	ROOT
+2	了	AS	0	VMOD
+3	中西	NR	3	NMOD
+4	文化	NN	0	OBJ
+
+1	沮丧	VV	1	DEP
+2	时	LC	2	VMOD
+3	看	VV	-1	ROOT
+
+1	史诗	NN	1	SUB
+2	一样	VA	-1	ROOT
+
+1	精彩	JJ	1	NMOD
+2	感人	NN	-1	ROOT
+
+1	有	VE	-1	ROOT
+2	未	AD	2	VMOD
+3	婚	VV	3	NMOD
+4	妈妈	NN	0	OBJ
+
+1	真事	NN	1	SUB
+2	改编	VV	-1	ROOT
+
+1	体现	VV	-1	ROOT
+2	历史	NN	2	NMOD
+3	文化	NN	0	OBJ
+
+1	摄影佳	VV	-1	ROOT
+
+1	职场	NN	1	NMOD
+2	爱情	NN	-1	ROOT
+
+1	发人	NN	1	SUB
+2	深思	VV	-1	ROOT
+
+1	有	VE	-1	ROOT
+2	人	NN	2	NMOD
+3	情味	NN	0	OBJ
+
+1	关于	P	-1	ROOT
+2	出轨	VV	0	PMOD
+
+1	看完	VV	2	SUB
+2	热血	NN	0	OBJ
+3	沸腾	VV	-1	ROOT
+
+1	给初	AD	1	VMOD
+2	中生	VV	-1	ROOT
+3	看	VV	1	VC
+
+1	反映人	NN	2	NMOD
+2	和	CC	2	NMOD
+3	自然	NN	-1	ROOT
+
+1	爱情	NN	2	NMOD
+2	和	CC	2	NMOD
+3	友情	NN	-1	ROOT
+
+1	讲述	VV	-1	ROOT
+2	勇气	NN	0	OBJ
+
+1	关于	P	-1	ROOT
+2	魔术	NN	0	PMOD
+
+1	现实	JJ	1	NMOD
+2	无奈	NN	-1	ROOT
+
+1	故事	NN	1	NMOD
+2	揪心	NN	-1	ROOT
+
+1	时光	NN	1	NMOD
+2	循环	NN	-1	ROOT
+
+1	翻拍	VV	1	VC
+2	成功	VA	-1	ROOT
+
+1	豪车	NN	1	NMOD
+2	美女	NN	-1	ROOT
+
+1	讲	VV	-1	ROOT
+2	学生	NN	2	NMOD
+3	年代	NN	0	OBJ
+
+1	校园	NN	1	NMOD
+2	时代	NN	-1	ROOT
+
+1	令	VV	-1	ROOT
+2	人	NN	0	OBJ
+3	匪夷所思	VV	0	VMOD
+
+1	集体	NN	1	NMOD
+2	组织	NN	2	SUB
+3	看	VV	-1	ROOT
+
+1	男同	NN	1	NMOD
+2	女同	NN	-1	ROOT
+
+1	适合	VV	-1	ROOT
+2	小学生	NN	0	OBJ
+3	看	VV	0	VMOD
+
+1	拍	VV	-1	ROOT
+2	了	AS	0	VMOD
+3	很	AD	3	VMOD
+4	久	VA	0	VMOD
+
+1	王力	NN	2	SUB
+2	宏好	AD	2	VMOD
+3	看	VV	-1	ROOT
+
+1	林正英	NR	1	VMOD
+2	好看	VA	-1	ROOT
+
+1	车	NN	1	SUB
+2	相关	VV	-1	ROOT
+
+1	和	P	2	VMOD
+2	杀人	NN	0	PMOD
+3	回忆	VV	-1	ROOT
+4	一样	VA	2	VMOD
+
+1	寓意	VV	-1	ROOT
+2	深长	NN	0	OBJ
+
+1	有	VE	-1	ROOT
+2	太空	NN	2	NMOD
+3	堡垒	NN	0	OBJ
+
+1	讲	VV	-1	ROOT
+2	旅行	NN	0	OBJ
+
+1	男扮女	NN	-1	ROOT
+
+1	非常	AD	1	VMOD
+2	安静	VA	-1	ROOT
+
+1	傅彪	NR	1	NMOD
+2	主演	NN	-1	ROOT
+
+1	关于	P	-1	ROOT
+2	女巫	NN	0	PMOD
+
+1	关于	P	-1	ROOT
+2	印第安人	NN	0	PMOD
+
+1	看	VV	-1	ROOT
+2	了	AS	0	VMOD
+3	让	VV	0	VMOD
+4	人	NN	2	OBJ
+5	温暖	VA	2	VMOD
+
+1	王宝强	NR	2	VMOD
+2	所	MSP	2	VMOD
+3	演	VV	-1	ROOT
+
+1	关于	P	2	VMOD
+2	潜意	NN	0	PMOD
+3	识	VV	-1	ROOT
+
+1	文艺	NN	1	NMOD
+2	题材	NN	-1	ROOT
+
+1	适合	VV	4	SUB
+2	全	DT	2	NMOD
+3	班	NN	0	OBJ
+4	一起	AD	4	VMOD
+5	看	VV	-1	ROOT
+
+1	温暖	JJ	1	NMOD
+2	结局	NN	-1	ROOT
+
+1	未来	NT	1	NMOD
+2	系列	NN	-1	ROOT
+
+1	青春	NN	1	SUB
+2	唯美	VA	-1	ROOT
+
+1	有	VE	-1	ROOT
+2	应召	NN	2	NMOD
+3	女郎	NN	0	OBJ
+
+1	林青霞	NR	1	VMOD
+2	演	VV	-1	ROOT
+
+1	陈佩斯	NR	1	NMOD
+2	配音	NN	-1	ROOT
+
+1	故事	NN	1	SUB
+2	搞	VV	-1	ROOT
+3	笑	NN	1	OBJ
+
+1	关于	P	-1	ROOT
+2	婚姻	NN	0	PMOD
+
+1	不	AD	1	VMOD
+2	拖泥	VV	-1	ROOT
+3	带	VV	1	VMOD
+4	水	NN	2	OBJ
+
+1	不	AD	1	VMOD
+2	可	VV	-1	ROOT
+3	错过	VV	1	VC
+
+1	功夫	NN	1	NMOD
+2	喜剧	NN	-1	ROOT
+
+1	动作	NN	1	NMOD
+2	大片	NN	-1	ROOT
+
+1	都	AD	1	VMOD
+2	是	VC	-1	ROOT
+3	美女	NN	1	PRD
+
+1	不	AD	1	VMOD
+2	暴力	VV	-1	ROOT
+
+1	基情	NN	1	SUB
+2	满满	VA	-1	ROOT
+
+1	3d	NN	1	NMOD
+2	效果	NN	-1	ROOT
+
+1	小	JJ	1	NMOD
+2	制作	NN	-1	ROOT
+
+1	朋友	NN	2	SUB
+2	一起	AD	2	VMOD
+3	看	VV	-1	ROOT
+
+1	关于	P	-1	ROOT
+2	复仇	NN	0	PMOD
+
+1	分镜	NN	1	SUB
+2	好	VA	-1	ROOT
+
+1	都	AD	1	VMOD
+2	是	VC	-1	ROOT
+3	帅哥	NN	1	PRD
+
+1	表情	NN	1	SUB
+2	丰富	VA	-1	ROOT
+
+1	讲	VV	-1	ROOT
+2	人生	NN	0	OBJ
+
+1	剧情弱	NN	-1	ROOT
+
+1	外星人	NN	1	NMOD
+2	战争	NN	-1	ROOT
+
+1	911	NR	1	NMOD
+2	事件	NN	2	SUB
+3	相关	VV	-1	ROOT
+
+1	80	NN	1	DEP
+2	后	LC	4	VMOD
+3	小	JJ	3	NMOD
+4	时候	NN	4	VMOD
+5	看	VV	-1	ROOT
+
+1	关于	P	2	NMOD
+2	狗	NN	0	PMOD
+3	狗	NN	-1	ROOT
+
+1	讲述	VV	-1	ROOT
+2	人格	NN	2	SUB
+3	分裂	VV	0	VMOD
+
+1	关于	P	2	VMOD
+2	精神	NN	0	PMOD
+3	分裂	VV	-1	ROOT
+
+1	像	AD	1	DEP
+2	纪录片	NN	-1	ROOT
+
+1	比较	AD	1	VMOD
+2	沉重	VA	-1	ROOT
+
+1	傻白甜	NN	-1	ROOT
+
+1	有	VE	-1	ROOT
+2	背	NN	2	NMOD
+3	包客	NN	0	OBJ
+
+1	让	VV	-1	ROOT
+2	人	NN	0	OBJ
+3	耳目一新	VV	0	VMOD
+
+1	类似	VV	-1	ROOT
+2	福尔摩斯	NR	2	NMOD
+3	断案	NN	0	OBJ
+
+1	有	VE	-1	ROOT
+2	外星人	NN	3	NMOD
+3	地球	NN	3	NMOD
+4	人	NN	0	OBJ
+
+1	男	JJ	1	NMOD
+2	主角	NN	2	SUB
+3	有	VE	-1	ROOT
+4	魅力	NN	2	OBJ
+
+1	有	VE	-1	ROOT
+2	生	NN	2	NMOD
+3	孩子	NN	0	OBJ
+
+1	节奏	NN	1	SUB
+2	慢	VA	-1	ROOT
+
+1	适合	VV	-1	ROOT
+2	在	P	0	VMOD
+3	电影院	NN	1	PMOD
+
+1	有	VE	-1	ROOT
+2	手艺人	NN	0	OBJ
+
+1	让	VV	-1	ROOT
+2	人	NN	0	OBJ
+3	很	AD	3	VMOD
+4	感动	VA	0	VMOD
+
+1	画面	NN	1	NMOD
+2	音乐	NN	3	SUB
+3	很	AD	3	VMOD
+4	棒	VA	-1	ROOT
+
+1	暴力	NN	1	NMOD
+2	美学	NN	-1	ROOT
+
+1	讲	VV	-1	ROOT
+2	上帝	NN	0	OBJ
+
+1	圣诞节	NN	1	NMOD
+2	气氛	NN	-1	ROOT
+
+1	战争	NN	1	NMOD
+2	主题	NN	-1	ROOT
+
+1	童话	NN	1	NMOD
+2	故事	NN	2	SUB
+3	改编	VV	-1	ROOT
+
+1	让心	VV	1	VC
+2	安静	VA	-1	ROOT
+
+1	场面	NN	1	SUB
+2	真实	VA	-1	ROOT
+
+1	关于	P	-1	ROOT
+2	文化	NN	3	NMOD
+3	大	JJ	3	NMOD
+4	革命	NN	0	PMOD
+
+1	剧情	NN	1	NMOD
+2	动作	NN	-1	ROOT
+
+1	校园	NN	1	NMOD
+2	暴力	NN	-1	ROOT
+
+1	男主	NN	1	NMOD
+2	痴情	NN	-1	ROOT
+
+1	科幻类	NN	-1	ROOT
+
+1	关于	P	-1	ROOT
+2	拉斯维加斯	NR	0	PMOD
+
+1	爱	VV	-1	ROOT
+2	与	CC	0	VMOD
+3	梦想	NN	0	VMOD
+
+1	结局	NN	1	SUB
+2	是	VC	-1	ROOT
+3	喜剧	NN	1	PRD
+
+1	关于	P	-1	ROOT
+2	传统	JJ	2	NMOD
+3	文化	NN	0	PMOD
+
+1	特工	NN	1	NMOD
+2	题材	NN	-1	ROOT
+
+1	结局	NN	1	SUB
+2	出人意料	VV	-1	ROOT
+
+1	剧情	NN	1	SUB
+2	平淡	VA	-1	ROOT
+
+1	适合	VV	-1	ROOT
+2	妈妈	NN	0	OBJ
+3	看	VV	0	VMOD
+
+1	剧情	NN	1	SUB
+2	让	VV	-1	ROOT
+3	人	NN	1	OBJ
+4	无语	VV	1	VMOD
+
+1	关于	P	-1	ROOT
+2	恐龙	NN	0	PMOD
+
+1	剧情	NN	1	SUB
+2	发展	VV	-1	ROOT
+3	狗	NN	3	NMOD
+4	血	NN	1	OBJ
+
+1	宗教	NN	2	NMOD
+2	与	CC	2	NMOD
+3	科学	NN	-1	ROOT
+
+1	演员	NN	1	SUB
+2	漂亮	VA	-1	ROOT
+
+1	关于	P	-1	ROOT
+2	救赎	NN	2	NMOD
+3	故事	NN	0	PMOD
+
+1	杰森斯坦	NR	2	VMOD
+2	森好	AD	2	VMOD
+3	看	VV	-1	ROOT
+
+1	好看	AD	1	VMOD
+2	复仇	VV	-1	ROOT
+
+1	关于	P	-1	ROOT
+2	马	NN	0	PMOD
+
+1	令	VV	-1	ROOT
+2	人	NN	0	OBJ
+3	振奋	VV	0	VMOD
+
+1	激情	NN	1	NMOD
+2	动作	NN	-1	ROOT
+
+1	杀人如麻	VV	-1	ROOT
+
+1	人	NN	-1	ROOT
+2	在	P	0	NMOD
+3	旅游	NN	1	PMOD
+
+1	疯狂	VV	-1	ROOT
+2	石头	NN	0	OBJ
+3	一样	VA	0	VMOD
+
+1	女	JJ	1	NMOD
+2	教练	NN	-1	ROOT
+
+1	非常	AD	1	VMOD
+2	另类	VA	-1	ROOT
+
+1	少女	NN	1	NMOD
+2	思春	NN	-1	ROOT
+
+1	逼格	AD	1	VMOD
+2	高	VA	-1	ROOT
+
+1	赵薇	NR	1	NMOD
+2	主演	NN	-1	ROOT
+
+1	看	VV	-1	ROOT
+2	哭	VV	0	VC
+3	了	AS	0	VMOD
+
+1	比较	AD	1	VMOD
+2	压抑	VV	-1	ROOT
+
+1	关于	P	-1	ROOT
+2	原罪	NN	0	PMOD
+
+1	青春	NN	1	NMOD
+2	校园	NN	-1	ROOT
+
+1	白宫	NR	2	VMOD
+2	被	SB	2	VMOD
+3	毁	VV	-1	ROOT
+
+1	适合	VV	5	SUB
+2	全	DT	2	NMOD
+3	家	NN	3	NMOD
+4	人	NN	0	OBJ
+5	一起	AD	5	VMOD
+6	看	VV	-1	ROOT
+
+1	关于	P	-1	ROOT
+2	职场	NN	0	PMOD
+
+1	舞蹈	NN	1	NMOD
+2	精彩	NN	-1	ROOT
+
+1	教育	NN	2	NMOD
+2	小	JJ	2	NMOD
+3	孩子	NN	-1	ROOT
+
+1	周迅	NR	1	NMOD
+2	主演	NN	-1	ROOT
+
+1	关于	P	-1	ROOT
+2	种族	NN	2	NMOD
+3	歧视	NN	0	PMOD
+
+1	有黑	JJ	1	NMOD
+2	寡妇	NN	-1	ROOT
+
+1	西部	NN	2	NMOD
+2	牛仔	NN	2	NMOD
+3	风格	NN	-1	ROOT
+
+1	关于	P	-1	ROOT
+2	毒品	NN	0	PMOD
+
+1	3dimax	VV	-1	ROOT
+
+1	青春	NN	1	NMOD
+2	犯罪	NN	-1	ROOT
+
+1	关于	P	-1	ROOT
+2	民国	NR	2	NMOD
+3	时期	NN	0	PMOD
+
+1	适合	VV	-1	ROOT
+2	中小	JJ	2	NMOD
+3	学生	NN	0	OBJ
+
+1	画面	NN	2	NMOD
+2	色彩	NN	2	NMOD
+3	美	NR	-1	ROOT
+
+1	理想	NN	2	NMOD
+2	与	CC	2	NMOD
+3	现实	NN	-1	ROOT
+
+1	票房	NN	1	SUB
+2	多	VA	-1	ROOT
+
+1	关于	P	-1	ROOT
+2	事业	NN	3	NMOD
+3	和	CC	3	NMOD
+4	家庭	NN	0	PMOD
+
+1	正室	NN	1	SUB
+2	斗	VV	-1	ROOT
+3	小	JJ	3	AMOD
+4	三	CD	1	VMOD
+
+1	剪辑	NN	2	SUB
+2	非常	AD	2	VMOD
+3	好	VA	-1	ROOT
+
+1	有	VE	-1	ROOT
+2	大自然	NN	2	NMOD
+3	美景	NN	0	OBJ
+
+1	音乐	NN	2	NMOD
+2	和	CC	2	NMOD
+3	爱情	NN	-1	ROOT
+
+1	关于	P	-1	ROOT
+2	拳击	NN	0	PMOD
+
+1	关于	P	-1	ROOT
+2	明天	NT	0	PMOD
+
+1	人气	NN	2	SUB
+2	很	AD	2	VMOD
+3	高	VA	-1	ROOT
+
+1	和	P	3	VMOD
+2	女儿	NN	0	PMOD
+3	一起	AD	3	VMOD
+4	看	VV	-1	ROOT
+
+1	适合	VV	-1	ROOT
+2	胎教	NN	0	OBJ
+
+1	关于	P	-1	ROOT
+2	吸毒	VV	0	PMOD
+
+1	科技感	NN	2	SUB
+2	很	AD	2	VMOD
+3	强	VA	-1	ROOT
+
+1	第二	OD	1	NMOD
+2	人格	NN	-1	ROOT
+
+1	和	P	2	VMOD
+2	空间	NN	0	PMOD
+3	有关	VV	-1	ROOT
+
+1	关于	P	-1	ROOT
+2	拐卖	VV	0	PMOD
+3	妇女	NN	1	OBJ
+
+1	明星	NN	1	NMOD
+2	爱情	NN	-1	ROOT
+
+1	类似	VV	-1	ROOT
+2	热血	NN	2	NMOD
+3	高校	NN	0	OBJ
+
+1	狼	NN	2	NMOD
+2	与	CC	2	NMOD
+3	人	NN	-1	ROOT
+
+1	同性	JJ	1	NMOD
+2	暧昧	NN	-1	ROOT
+
+1	讲述	VV	-1	ROOT
+2	企鹅	NN	0	OBJ
+
+1	关于	P	-1	ROOT
+2	圆明园	NN	0	PMOD
+
+1	金秀贤	NR	1	NMOD
+2	主演	NN	-1	ROOT
+
+1	军队	NN	1	NMOD
+2	战争	NN	-1	ROOT
+
+1	有关	JJ	1	NMOD
+2	车	NN	-1	ROOT
+
+1	主角	NN	1	NMOD
+2	智商	NN	3	SUB
+3	很	AD	3	VMOD
+4	高	VA	-1	ROOT
+
+1	商业	NN	1	NMOD
+2	斗争	NN	-1	ROOT
+
+1	宫崎骏	NN	1	NMOD
+2	作品	NN	-1	ROOT
+
+1	关于	P	-1	ROOT
+2	秦始皇	NR	0	PMOD
+
+1	帅哥	NN	1	NMOD
+2	同性恋	NN	-1	ROOT
+
+1	梁洛	NR	1	VMOD
+2	施演	VV	-1	ROOT
+
+1	轻松	AD	1	VMOD
+2	有	VE	-1	ROOT
+3	意义	NN	1	OBJ
+
+1	关于	P	-1	ROOT
+2	民族	NN	0	PMOD
+
+1	国产	NN	1	SUB
+2	有	VE	-1	ROOT
+3	露点	NN	1	OBJ
+
+1	很多	CD	1	NMOD
+2	明星	NN	-1	ROOT
+
+1	美女	NN	1	SUB
+2	好看	VA	-1	ROOT
+
+1	有	VE	-1	ROOT
+2	学校	NN	2	NMOD
+3	老师	NN	0	OBJ
+
+1	科幻	NN	-1	ROOT
+
+1	关于	P	-1	ROOT
+2	耶稣	NN	0	PMOD
+
+1	法律	NN	1	NMOD
+2	类型	NN	-1	ROOT
+
+1	纪实性	NN	-1	ROOT
+
+1	军旅	NN	1	NMOD
+2	题材	NN	-1	ROOT
+
+1	人	NN	1	SUB
+2	好看	VA	-1	ROOT
+
+1	男	JJ	1	NMOD
+2	主角	NN	3	SUB
+3	很	AD	3	VMOD
+4	厉害	VA	-1	ROOT
+
+1	军事	NN	1	NMOD
+2	题材	NN	-1	ROOT
+
+1	吴京	NR	1	NMOD
+2	主演	NN	-1	ROOT
+
+1	结局	NN	1	NMOD
+2	绝望	NN	-1	ROOT
+
+1	探险	NN	-1	ROOT
+
+1	精彩	JJ	1	NMOD
+2	剧情	NN	-1	ROOT
+
+1	舞蹈	NN	1	NMOD
+2	美	NR	-1	ROOT
+
+1	有	VE	-1	ROOT
+2	好	AD	2	AMOD
+3	多	CD	3	NMOD
+4	明星	NN	0	OBJ
+
+1	关于	P	-1	ROOT
+2	世界	NN	2	NMOD
+3	末日	NN	0	PMOD
+
+1	剧情	NN	2	SUB
+2	不	AD	2	VMOD
+3	流畅	VV	-1	ROOT
+
+1	有	VE	-1	ROOT
+2	在	P	3	NMOD
+3	夜店	NN	1	PMOD
+4	场景	NN	0	OBJ
+
+1	有	VE	-1	ROOT
+2	可爱	JJ	2	NMOD
+3	小孩	NN	0	OBJ
+
+1	悲伤	NN	1	NMOD
+2	时候	NN	2	VMOD
+3	看	VV	-1	ROOT
+
+1	2005年	NT	1	VMOD
+2	拍	VV	-1	ROOT
+
+1	国内	NN	1	SUB
+2	优秀	VA	-1	ROOT
+
+1	非常	AD	1	VMOD
+2	暴力	NN	-1	ROOT
+
+1	适合	VV	4	SUB
+2	学校	NN	2	NMOD
+3	组织	NN	0	OBJ
+4	一起	AD	4	VMOD
+5	看	VV	-1	ROOT
+
+1	剧情	NN	2	NMOD
+2	狗	NN	2	NMOD
+3	血	NN	-1	ROOT
+
+1	关于	P	-1	ROOT
+2	海洋	NN	0	PMOD
+
+1	和	P	2	VMOD
+2	梦	NN	0	PMOD
+3	相关	VV	-1	ROOT
+
+1	让	VV	-1	ROOT
+2	人	NN	0	OBJ
+3	笑	VV	3	DEP
+4	中	LC	4	VMOD
+5	带	VV	0	VMOD
+6	泪	NN	4	OBJ
+
+1	关于	P	-1	ROOT
+2	洗脑	NN	0	PMOD
+
+1	俄国	NR	1	NMOD
+2	革命	NN	-1	ROOT
+
+1	关于	P	-1	ROOT
+2	保镖	NN	0	PMOD
+
+1	比较	AD	1	VMOD
+2	感人	VA	-1	ROOT
+
+1	多	AD	1	VMOD
+2	角恋	VV	-1	ROOT
+
+1	女女	NN	1	NMOD
+2	激情	NN	-1	ROOT
+
+1	有	VE	-1	ROOT
+2	误解	NN	0	OBJ
+
+1	黄奕演	NR	-1	ROOT
+
+1	黑帮	NN	1	NMOD
+2	犯罪	NN	-1	ROOT
+
+1	比较	AD	1	VMOD
+2	恶心	VA	-1	ROOT
+
+1	婚姻	NN	2	NMOD
+2	和	CC	2	NMOD
+3	家庭	NN	-1	ROOT
+
+1	无间道	AD	1	VMOD
+2	那样	VV	-1	ROOT
+
+1	刘桦演	NR	-1	ROOT
+
+1	关于	P	-1	ROOT
+2	预知	VV	0	PMOD
+3	未来	NT	1	OBJ
+
+1	姜文	NN	1	NMOD
+2	作品	NN	-1	ROOT
+
+1	讲	VV	-1	ROOT
+2	选举	NN	0	OBJ
+
+1	让	VV	-1	ROOT
+2	人	NN	0	OBJ
+3	难	AD	3	VMOD
+4	受	VV	0	VMOD
+
+1	质量	NN	1	SUB
+2	好	VA	-1	ROOT
+
+1	男男	NN	2	NMOD
+2	床	NN	2	NMOD
+3	戏	NN	-1	ROOT
+
+1	女王	NN	1	NMOD
+2	气质	NN	-1	ROOT
+
+1	周星驰	NR	1	NMOD
+2	主演	NN	-1	ROOT
+
+1	有	VE	-1	ROOT
+2	寓意	NN	0	OBJ
+
+1	角色	NN	1	NMOD
+2	精神	NN	2	SUB
+3	有	VE	-1	ROOT
+4	问题	NN	2	OBJ
+
+1	关于	P	-1	ROOT
+2	东邪	NR	2	NMOD
+3	西毒	NN	0	PMOD
+
+1	精彩	JJ	1	NMOD
+2	打戏	NN	-1	ROOT
+
+1	僵尸类	NN	-1	ROOT
+
+1	有	VE	-1	ROOT
+2	萌	NN	2	NMOD
+3	宝宝	NN	0	OBJ
+
+1	结局	NN	1	SUB
+2	逆转	VV	-1	ROOT
+
+1	穿越	VV	-1	ROOT
+2	片	NN	0	OBJ
+
+1	人类	NN	2	NMOD
+2	与	CC	2	NMOD
+3	大自然	NN	-1	ROOT
+
+1	催人	NN	1	NMOD
+2	泪下	NN	-1	ROOT
+
+1	心情	NN	2	SUB
+2	不	AD	2	VMOD
+3	好	VA	3	NMOD
+4	时候	NN	4	VMOD
+5	看	VV	-1	ROOT
+
+1	怀念	NN	1	NMOD
+2	小时候	NN	-1	ROOT
+
+1	关于	P	-1	ROOT
+2	特种兵	NN	0	PMOD
+
+1	励志	VV	-1	ROOT
+2	人生	NN	0	OBJ
+
+1	获得	VV	-1	ROOT
+2	奥斯卡	NR	2	NMOD
+3	奖	NN	0	OBJ
+
+1	明星	NN	1	SUB
+2	云集	VV	-1	ROOT
+
+1	超级	AD	1	VMOD
+2	搞笑	VV	-1	ROOT
+
+1	有	VE	-1	ROOT
+2	未	AD	2	VMOD
+3	卜	VV	0	VMOD
+4	先知	NN	2	OBJ
+
+1	女	JJ	1	NMOD
+2	主角	NN	3	SUB
+3	很	AD	3	VMOD
+4	漂亮	VA	-1	ROOT
+
+1	关于	P	-1	ROOT
+2	毛泽东	NR	0	PMOD
+
+1	适合	VV	2	SUB
+2	电影院	NN	0	OBJ
+3	看	VV	-1	ROOT
+
+1	基情	NN	1	SUB
+2	无限	VA	-1	ROOT
+
+1	画面	NN	1	SUB
+2	精致	VA	-1	ROOT
+
+1	结局	NN	1	NMOD
+2	震撼	NN	-1	ROOT
+
+1	节奏	NN	1	SUB
+2	紧张	VA	-1	ROOT
+
+1	关于	P	-1	ROOT
+2	赌博	NN	0	PMOD
+
+1	关于	P	-1	ROOT
+2	动物	NN	0	PMOD
+
+1	关于	P	-1	ROOT
+2	金字塔	NN	0	PMOD
+
+1	剧情	NN	1	SUB
+2	乱	VA	-1	ROOT
+
+1	治愈	VV	-1	ROOT
+2	系	NN	0	OBJ
+
+1	很多	CD	1	NMOD
+2	元素	NN	-1	ROOT
+
+1	剧情	NN	1	SUB
+2	悬念	VV	-1	ROOT
+
+1	感动	VV	-1	ROOT
+2	一	CD	2	AMOD
+3	塌	M	3	NMOD
+4	糊涂	NN	0	OBJ
+
+1	讲	VV	-1	ROOT
+2	母亲	NN	0	OBJ
+
+1	结尾	NN	1	SUB
+2	弱	VA	-1	ROOT
+
+1	讲	VV	-1	ROOT
+2	责任	NN	0	OBJ
+
+1	重口味	NN	-1	ROOT
+
+1	国语	NN	1	NMOD
+2	配音	NN	-1	ROOT
+
+1	同学	NN	1	SUB
+2	聚会	VV	-1	ROOT
+
+1	比较	AD	1	VMOD
+2	惊悚	VV	-1	ROOT
+
+1	女	JJ	1	NMOD
+2	主角	NN	2	SUB
+3	惊艳	VV	-1	ROOT
+
+1	有	VE	-1	ROOT
+2	小孩	NN	0	OBJ
+3	出演	VV	0	VMOD
+
+1	适合	VV	-1	ROOT
+2	中年	NN	2	NMOD
+3	妇女	NN	0	OBJ
+4	看	VV	0	VMOD
+
+1	剧情	NN	1	SUB
+2	反转	VV	-1	ROOT
+
+1	耶稣	NN	1	SUB
+2	受难	VV	-1	ROOT
+
+1	结局	NN	2	NMOD
+2	狗	NN	2	NMOD
+3	血	NN	-1	ROOT
+
+1	关于	P	-1	ROOT
+2	明朝	NR	0	PMOD
+
+1	适合	VV	-1	ROOT
+2	深夜	NT	0	OBJ
+3	看	VV	0	VMOD
+
+1	地球	NN	1	NMOD
+2	灾难	NN	-1	ROOT
+
+1	心灵	NN	1	SUB
+2	感应	VV	-1	ROOT
+
+1	90	NN	1	DEP
+2	后	LC	4	VMOD
+3	小	JJ	3	NMOD
+4	时候	NN	4	VMOD
+5	看	VV	-1	ROOT
+
+1	关于	P	-1	ROOT
+2	忠诚	NN	0	PMOD
+
+1	主要	AD	1	VMOD
+2	讲	VV	-1	ROOT
+3	两	CD	3	AMOD
+4	个	M	4	NMOD
+5	男人	NN	1	OBJ
+
+1	风景	NN	2	NMOD
+2	超级	JJ	2	NMOD
+3	美	NN	-1	ROOT
+
+1	口碑差	NN	-1	ROOT
+
+1	关于	P	-1	ROOT
+2	西藏	NR	0	PMOD
+
+1	动漫	VV	-1	ROOT
+2	类型	NN	0	OBJ
+
+1	音乐	NN	2	SUB
+2	比较	AD	2	VMOD
+3	好	VA	-1	ROOT
+
+1	画面	NN	3	SUB
+2	像	P	3	VMOD
+3	油画	NN	1	PMOD
+4	一样	VA	-1	ROOT
+
+1	贴近	VV	-1	ROOT
+2	生活	NN	0	OBJ
+
+1	太空	NN	1	NMOD
+2	生物	NN	-1	ROOT
+
+1	鬼	NN	1	SUB
+2	上身	VV	-1	ROOT
+
+1	类似	VV	-1	ROOT
+2	蝴蝶	NN	2	NMOD
+3	效应	NN	0	OBJ
+
+1	有	VE	-1	ROOT
+2	打	VV	0	VMOD
+3	官司	NN	1	OBJ
+
+1	结局	NN	1	NMOD
+2	悲惨	NN	-1	ROOT
+
+1	结局	NN	1	SUB
+2	是	VC	-1	ROOT
+3	个	M	3	NMOD
+4	悲剧	NN	1	PRD
+
+1	故事	NN	-1	ROOT
+2	主要	AD	2	DEP
+3	在	P	0	VMOD
+4	一	CD	4	AMOD
+5	个	M	5	NMOD
+6	岛	NN	6	DEP
+7	上	LC	2	PMOD
+
+1	关于	P	3	VMOD
+2	诺	NN	0	PMOD
+3	曼底	AD	3	VMOD
+4	登陆	VV	-1	ROOT
+
+1	徐铮	NR	1	VMOD
+2	搞笑	VV	-1	ROOT
+
+1	时	NN	2	VMOD
+2	尚	AD	2	VMOD
+3	题材	VV	-1	ROOT
+
+1	结局	NN	1	SUB
+2	令	VV	-1	ROOT
+3	人	NN	1	OBJ
+4	意外	VA	1	VMOD
+
+1	有	VE	-1	ROOT
+2	神秘感	NN	0	OBJ
+
+1	有	VE	-1	ROOT
+2	一	CD	2	AMOD
+3	只	M	4	NMOD
+4	大	JJ	4	NMOD
+5	猫	NN	0	OBJ
+
+1	萝莉	NR	1	NMOD
+2	复仇	NN	-1	ROOT
+
+1	波澜壮阔	NR	-1	ROOT
+
+1	枪战	NN	1	NMOD
+2	火爆	NN	-1	ROOT
+
+1	关于	P	-1	ROOT
+2	同性恋	NN	0	PMOD
+
+1	主角	NN	2	SUB
+2	很	AD	2	VMOD
+3	萌	VV	-1	ROOT
+
+1	讲青	VV	-1	ROOT
+2	春期	NN	0	OBJ
+
+1	类似	VV	-1	ROOT
+2	生化	NN	2	NMOD
+3	危机	NN	0	OBJ
+
+1	讲	VV	-1	ROOT
+2	情绪	NN	0	OBJ
+
+1	有关	JJ	1	NMOD
+2	黑社会	NN	-1	ROOT
+
+1	有	VE	-1	ROOT
+2	好	JJ	2	NMOD
+3	男人	NN	0	OBJ
+
+1	讲述	VV	-1	ROOT
+2	天才	NN	0	OBJ
+
+1	内地	NN	1	NMOD
+2	尺度	NN	2	SUB
+3	大	VA	-1	ROOT
+
+1	狗	NN	2	NMOD
+2	狗	NN	2	NMOD
+3	题材	NN	-1	ROOT
+
+1	天堂	NN	2	NMOD
+2	和	CC	2	NMOD
+3	地狱	NN	-1	ROOT
+
+1	名著	NN	1	SUB
+2	改编	VV	-1	ROOT
+
+1	浪漫	JJ	1	NMOD
+2	温情	NN	-1	ROOT
+
+1	有	VE	-1	ROOT
+2	老人	NN	3	NMOD
+3	和	CC	3	NMOD
+4	小孩	NN	0	OBJ
+
+1	有	VE	-1	ROOT
+2	赛车	NN	0	OBJ
+
+1	有	VE	-1	ROOT
+2	来	MSP	2	VMOD
+3	世	VV	0	VMOD
+4	今生	VV	2	VC
+
+1	类似	VV	-1	ROOT
+2	忠犬八公	NR	0	VMOD
+
+1	关于	P	-1	ROOT
+2	朝鲜	NR	2	NMOD
+3	战争	NN	0	PMOD
+
+1	传奇	JJ	1	NMOD
+2	人物	NN	-1	ROOT
+
+1	尤勇演	VV	-1	ROOT
+
+1	奇幻	NN	1	NMOD
+2	历险	NN	-1	ROOT
+
+1	黄渤	NR	1	NMOD
+2	主演	NN	-1	ROOT
+
+1	全度	AD	1	VMOD
+2	妍演	VV	-1	ROOT
+
+1	比环	P	2	VMOD
+2	太平洋	NR	0	PMOD
+3	好看	VA	-1	ROOT
+
+1	大叔	NN	3	NMOD
+2	与	CC	3	NMOD
+3	小	JJ	3	NMOD
+4	萝莉	NN	-1	ROOT
+
