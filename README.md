@@ -41,7 +41,7 @@ time:2016.4
   3.最终，我暂时使用了niuparse的相关功能。
 * neo4j数据库链接阶段  
   1. 最初，进行了java的嵌入式尝试，效果还是不错的。具体实现可参见我的blog:http://blog.csdn.net/u014451076/article/details/50998957
-  2. 接着，进行了python下的链接（最终个人希望是用py写一套系统）。开始的时候是参照官网给出的方式，http://neo4j.com/developer/，开始是成功实现的，后来个人电脑系统进行了升级，再次进行配置时，发现无法配	置成功。原因：使用bolt协议，这个协议只支持py2.7.9+和3.3+，但是本次自带的py是2.7.3和3.4，尝试手动进行py2.7.9的安装，但是安装neo4j-driver的过程需要使用pip，而pip的安装需要依赖py，而py的版本命令是取前两位（均为py2.7），没有找到相关的解决方案。最终	这种方法只能放弃，但是如果py版本正确，相关配置是可以实现的。
+  2. 接着，进行了python下的链接（最终个人希望是用py写一套系统）。开始的时候是参照官网给出的方式，http://neo4j.com/developer/ ，开始是成功实现的，后来个人电脑系统进行了升级，再次进行配置时，发现无法配	置成功。原因：使用bolt协议，这个协议只支持py2.7.9+和3.3+，但是本次自带的py是2.7.3和3.4，尝试手动进行py2.7.9的安装，但是安装neo4j-driver的过程需要使用pip，而pip的安装需要依赖py，而py的版本命令是取前两位（均为py2.7），没有找到相关的解决方案。最终	这种方法只能放弃，但是如果py版本正确，相关配置是可以实现的。
   3. 最终，选择了使用jpype和embeded进行py的开发。介绍和安装方法可简单参考：http://blog.csdn.net/dyllove98/article/details/8635965 和 http://docs.neo4j.org.cn/python-embedded.html
 * 程序实现：
   代码托管在https://github.com/su526664687/NEUBAIDUNLP
