@@ -37,7 +37,7 @@ time:2016.4
 ####前期尝试:  
 * 语句处理阶段  
   1. 最初，我认为如果采用文法规则的方法去分析问句的话，需要使用一个文法分析效果比较好的工具。于是，我尝试了去使用nltk的一些库，但是在nltk中并没有找到关于已存分析的工具。
-  2. 然后，我放弃了nltk，发现了工具HanLP,项目托管地址：https://github.com/hankcs/HanLP ，hanlp是主要针对java写的，所有需要导入jpype这个包，去实现在python中嵌入java。尝试后发现，hanlp在py下的工作状	态不如java，它的dp无法实现，但是其进行“摘要”的功能是不错的，可以留待后用。
+  2. 然后，我放弃了nltk，发现了工具HanLP,项目托管地址：https://github.com/hankcs/HanLP ，hanlp是主要针对java写的，所有需要导入jpype这个包，去实现在python中嵌入java。尝试后发现，hanlp在py下的工作状	态不如java，它的dp无法实现，但是其进行“摘要”的功能是不错的，可以留待后用。  
   3.最终，我暂时使用了niuparse的相关功能。
 * neo4j数据库链接阶段  
   1. 最初，进行了java的嵌入式尝试，效果还是不错的。具体实现可参见我的blog:http://blog.csdn.net/u014451076/article/details/50998957
