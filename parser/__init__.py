@@ -34,8 +34,8 @@ class Parser:
         print "DP finish"
         
 # test as an example 
-parser = Parser()
-parser.ws(fileprefix+"movie.QUERY.DEVSET.txt")
-parser.pos(fileprefix+"movie.QUERY.DEVSET.txt")
-parser.ner(fileprefix+"movie.QUERY.DEVSET.txt") 
-parser.dp(fileprefix+"movie.QUERY.DEVSET.txt") 
+# parser = Parser()
+# parser.ws(fileprefix+"movie.QUERY.DEVSET.txt")
+# parser.pos(fileprefix+"movie.QUERY.DEVSET.txt")
+# parser.ner(fileprefix+"movie.QUERY.DEVSET.txt") 
+# parser.dp(fileprefix+"movie.QUERY.DEVSET.txt") 
