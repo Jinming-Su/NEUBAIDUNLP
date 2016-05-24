@@ -69,6 +69,7 @@ time:2016.4
 	  4. 只能继续把问题放在it社区去碰碰运气,最后找到了http://stackoverflow.com/questions/37128583/neo4j-bolt-driver-protocol-error .是国外的一个开发者,也遇到了协议错误的问题,有个开发者给出的解释是:7474 is by default used for http whereas 7687 is the default for binary bolt protocol. bolt driver is only for 3.0 (and newer).在这里,我得到了启发.
 	  5. 重新去下载了neo4j3.0.1版本,进行使用python2.7.6进行了链接,提示我需要进行密码的更改,到这个地方,感觉离成功不远了,就去改了密码,果然成功了
 	  6. 又拿python3.4进行了测试,提示未知主机,不过这个就不是问题了
+
 ##Ver 0.2  
 ---
 time:2016.5

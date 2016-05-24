@@ -1,13 +1,20 @@
-from neo4j import GraphDatabase
- 
-# Create db
-db = GraphDatabase('/home/sujinming/Documents/software/neo4j-community-2.3.3/data/test')
+from neo4j.v1 import GraphDatabase, basic_auth
 
-# with db.transaction:
-# db.node(name='sjming', age=42)
+driver = GraphDatabase.driver("bolt://localhost", auth=basic_auth("neo4j", "neu"))
+session = driver.session()
 
-result = db.query("start n=node(1) return n.name")
-print result
+insert = 'create (sjming:Person{name:"SJMing"})'
+results = session.run(insert)
+print results
 
-# Always shut down your database
-db.shutdown()
+delete = 'match (n{name:"Bob"}) detach delete n'
+results = session.run(delete)
+print results
+
+query = "match (n) return n"
+results = session.run(query)
+for record in results:
+    print(record[0]["name"])
+
+
+session.close()

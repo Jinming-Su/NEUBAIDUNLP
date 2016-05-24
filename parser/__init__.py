@@ -21,7 +21,7 @@ class Parser:
         com = "cd "+parserPath+"bin && \
         ./NiuParser-v1.3.0-mt-linux --POS -in "+filename+".ws"+" -out "+filename+".pos"+" -c niuparser.config"
         self.exe(com)
-        print "POS finish"
+        print ("POS finish")
     def ner(self,filename):
         com = "cd "+parserPath+"bin && \
         ./NiuParser-v1.3.0-mt-linux --NER -in "+filename+".pos"+" -out "+filename+".ner"+" -c niuparser.config"
